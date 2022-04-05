@@ -5,6 +5,10 @@
 
 package com.mycompany.studentquizgrades;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  *
  * @author chica
@@ -12,6 +16,6 @@ package com.mycompany.studentquizgrades;
 public class StudentQuizGrades {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Map<String, ArrayList<Integer>> quizData = new HashMap<>();
     }
 }
