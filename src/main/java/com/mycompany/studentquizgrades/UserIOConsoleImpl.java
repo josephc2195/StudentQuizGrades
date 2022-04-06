@@ -1,3 +1,5 @@
+package com.mycompany.studentquizgrades;
+
 
 import com.mycompany.studentquizgrades.UserIO;
 import java.util.Scanner;
